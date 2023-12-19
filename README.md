@@ -17,7 +17,7 @@ cd SI-GuidedProject-612884-1698842175
 pip install -r requirements.txt
 ```
 
-## Features :star2:
+## Features :star2: 
 - `Flask App`: The core application framework for serving predictions.
 - `Models`: Pre-trained models like Inception V3, VGG16, Xception ready to classify.
 - `Static`: The assets that make our app not just powerful, but also visually appealing.
