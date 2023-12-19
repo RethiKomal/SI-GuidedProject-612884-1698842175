@@ -18,10 +18,10 @@ pip install -r requirements.txt
 ```
 
 ## Features :star2:
-- `Flask App`: The core application framework for serving predictions.
-- `Models`: Pre-trained models like Inception V3, VGG16, Xception ready to classify.
-- `Static`: The assets that make our app not just powerful, but also visually appealing.
-- `Templates`: The dynamic HTML templates providing an interactive user experience.
+- `Flask App`: The core application framework for serving predictions. 
+- `Models`: Pre-trained models like Inception V3, VGG16, Xception ready to classify. 
+- `Static`: The assets that make our app not just powerful, but also visually appealing. 
+- `Templates`: The dynamic HTML templates providing an interactive user experience. 
 
 ## How to Use :bulb:
 1. **Run the Application**
@@ -29,11 +29,11 @@ pip install -r requirements.txt
    flask run
    ```
 2. **Interact with the Platform**
-   - Go to `http://127.0.0.1:5000/` on your browser.
-   - Upload your retina image and wait for the magic to happen!
+   - Go to `http://127.0.0.1:5000/` on your browser. 
+   - Upload your retina image and wait for the magic to happen! 
 
 3. **View Results**
-   - Check out the predictions and suggested action items.
+   - Check out the predictions and suggested action items. 
 
 ## Project Link on Heroku: 
 [https://eye-vision-30e4dec7701a.herokuapp.com/](https://eye-vision-30e4dec7701a.herokuapp.com/)
@@ -57,5 +57,5 @@ Distributed under the MIT License. See `LICENSE` for more information.
 ## Contact :telephone_receiver:
 Project Link: [https://github.com/smartinternz02/SI-GuidedProject-612884-1698842175](https://github.com/smartinternz02/SI-GuidedProject-612884-1698842175)
 
-Let's make healthcare better, one prediction at a time! :heart:
+Let's make healthcare better, one prediction at a time! :heart: 
 
